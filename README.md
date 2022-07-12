@@ -22,3 +22,11 @@ This tool generate number wordlist such as this number wordlists
 ```
 Git install https://github.com/Hacoder32/Number-Wordlist-Generater
 ```
+
+# Running
+```
+chmod +x number_wordlist_generater.sh
+```
+```
+./number_wordlist_generater.sh
+```
