@@ -19,4 +19,6 @@ This tool generate number wordlist such as this number wordlists
 
 # Installation
 
+```
 Git install https://github.com/Hacoder32/Number-Wordlist-Generater
+```
